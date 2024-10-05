@@ -2,7 +2,7 @@
 provider "aws" {
   region = "us-east-1"  # Replace with your desired region
 
-  # Access key and secret key (replace with your actual credentials but NEVER commit this to version control)
+  # Access key and secret key (replace with your actual credentials )
  # access_key = "Insert your access_key"
   #secret_key = "Insert your secret_key"
 }
