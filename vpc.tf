@@ -1,4 +1,4 @@
-# Configure the AWS Provider (using access key and secret key - not recommended)
+# Configure the AWS Provider 
 provider "aws" {
   region = "us-east-1"  # Replace with your desired region
 
